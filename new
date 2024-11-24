@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+<body>
+    <header>
+        <div>
+            <h1>Recipe heaven</h1>
+            <nav>
+                <a href="#" class="recipe1"></a>
+                <a href="#" class="recipe2"></a>
+                <a href="#" class="recipe3"></a>
+            </nav>
+        </div>
+    </header>
+    <main>
+        <section class="hero">
+            <div>
+                <h2>Discover our delkfhsshflks</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolore excepturi velit non fugiat laboriosam facilis laborum? Corrupti quidem inventore consequatur!</p>
+
+            </div>
+        </section>
+        <section class="repice-r">
+            <div class="cont"></div>
+        </section>
+    </main>
+</body>
+</html>
